@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fphr",
+  "name": "First-Person Hand Removal",
+  "description": "Removes empty hands when in first-person.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["don_bruce"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
